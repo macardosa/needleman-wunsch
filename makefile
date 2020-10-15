@@ -11,7 +11,7 @@ $(target):$(obj)
 	$(FC) -o $@ $^
 
 test:
-	./$(target)
+	./$(target) s1.fasta s2.fasta
 
 clean:
 	rm *.o
