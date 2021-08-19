@@ -17,4 +17,4 @@ clean:
 	rm *.o
 
 install:
-	cp $(target) ~/.bin
+	cp $(target) ~/.local/bin

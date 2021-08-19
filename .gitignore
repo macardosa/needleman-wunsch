@@ -1,1 +1,3 @@
-align
+.*~
+.*swp
+.DS_Store
