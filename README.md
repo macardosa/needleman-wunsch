@@ -1,6 +1,8 @@
-## **Needleman–Wunsch algorithm**
+# Align
 
-### **Descripcion**
+Python script for align two biological sequences using the Needleman-Wunsch algorithm.
+
+### Descripcion
 
 The Needleman–Wunsch algorithm is an algorithm used in bioinformatics to align protein or nucleotide sequences. It was one of the first applications of dynamic programming to compare biological sequences. The algorithm assigns a score to every possible alignment, and the purpose of the algorithm is to find all possible alignments having the highest score.The BLOSUM62 matrix is used as the default scoring matrix for align.py. The output is printed in fasta format.
 
